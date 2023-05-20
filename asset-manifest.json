@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-superchat-app/static/css/main.46984462.css",
+    "main.js": "/react-superchat-app/static/js/main.50488d0b.js",
+    "index.html": "/react-superchat-app/index.html",
+    "main.46984462.css.map": "/react-superchat-app/static/css/main.46984462.css.map",
+    "main.50488d0b.js.map": "/react-superchat-app/static/js/main.50488d0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46984462.css",
+    "static/js/main.50488d0b.js"
+  ]
+}
